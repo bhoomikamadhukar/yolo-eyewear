@@ -1,0 +1,10 @@
+/Users/Madhukar/Downloads/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/data/12.jpg
+/Users/Madhukar/Downloads/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/data/21.jpg
+/Users/Madhukar/Downloads/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/data/30.jpg
+/Users/Madhukar/Downloads/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/data/4.jpg
+/Users/Madhukar/Downloads/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/data/49.jpg
+/Users/Madhukar/Downloads/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/data/58.jpg
+/Users/Madhukar/Downloads/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/data/67.jpg
+/Users/Madhukar/Downloads/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/data/76.jpg
+/Users/Madhukar/Downloads/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/data/85.jpg
+/Users/Madhukar/Downloads/Yolo-Training-GoogleColab-master/Yolo-Training-GoogleColab-master/data/94.jpg

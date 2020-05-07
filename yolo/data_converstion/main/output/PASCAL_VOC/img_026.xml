@@ -1,0 +1,14 @@
+<annotation>
+  <folder>input</folder>
+  <filename>img_026.jpg</filename>
+  <path>C:\Users\Madhukar\Downloads\Yolo-Training-GoogleColab-master\Yolo-Training-GoogleColab-master\data_converstion\main\input\img_026.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>400</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>
